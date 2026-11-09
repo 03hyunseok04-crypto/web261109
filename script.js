@@ -18,7 +18,7 @@ let max = ratings[0];
 let maxIndex = 0;
 
 
-let count = 0;
+let count = 0; 
 
 for (let i = 0; i < ratings.length; i++) {
 

@@ -73,4 +73,4 @@ document.title = "내 영화 " + movies.length + "편";
 
 document.getElementById("out").textContent =
   "평균 " + average(movies).toFixed(1) +
-  "점, 최고 " + best(movies).title;
+  "점, 최고 " + best(movies).title; 
